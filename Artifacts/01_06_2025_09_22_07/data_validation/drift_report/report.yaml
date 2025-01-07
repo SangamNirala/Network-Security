@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 1.0
+DNSRecord:
+  drift_status: false
+  p_value: 0.6623306311021729
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.925264894311947
+Favicon:
+  drift_status: false
+  p_value: 0.9989173391406211
+Google_Index:
+  drift_status: false
+  p_value: 1.0
+HTTPS_token:
+  drift_status: false
+  p_value: 0.6849796603415288
+Iframe:
+  drift_status: false
+  p_value: 0.9999977235497168
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9995865036983179
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.43982839593783907
+Page_Rank:
+  drift_status: false
+  p_value: 1.0
+Prefix_Suffix:
+  drift_status: false
+  p_value: 1.0
+Redirect:
+  drift_status: false
+  p_value: 0.8148665993701488
+Request_URL:
+  drift_status: false
+  p_value: 0.999999999870135
+Result:
+  drift_status: false
+  p_value: 0.9999992399051418
+RightClick:
+  drift_status: false
+  p_value: 0.999999999988434
+SFH:
+  drift_status: false
+  p_value: 1.0
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.3646143159797791
+Shortining_Service:
+  drift_status: false
+  p_value: 0.9378891333552308
+Statistical_report:
+  drift_status: false
+  p_value: 1.0
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.99999999945476
+URL_Length:
+  drift_status: false
+  p_value: 0.999999999870135
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.9184669915153951
+age_of_domain:
+  drift_status: false
+  p_value: 0.9999983994854099
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.7075036696264173
+having_At_Symbol:
+  drift_status: false
+  p_value: 1.0
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9998031410932465
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.9999955619617864
+on_mouseover:
+  drift_status: false
+  p_value: 0.9999999439197564
+popUpWidnow:
+  drift_status: false
+  p_value: 0.9968835466898608
+port:
+  drift_status: false
+  p_value: 1.0
+web_traffic:
+  drift_status: false
+  p_value: 0.999999999870135
